@@ -22,4 +22,6 @@ You have to do this in accordance with the Guide, which is an important restrict
 ### you can find the source codes above,
 - Resume.1.html
 - README.md
-#### `you can download it as zip or coping the UMl!`
+### Download
+you can download it as zip or coping the UMl!
+
