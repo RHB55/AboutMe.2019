@@ -1,5 +1,5 @@
 ## ABOUT ME .2019
-#### What you will see? A Flexible and scalable page for all mobile and computer sizes.
+#### What you will see? A Flexible and scalable page for all mobile and computer sizes|Enjoy ")
 
 ## Project overview
 
@@ -26,5 +26,5 @@ You have to do this in accordance with the Guide, which is an important restrict
 - README.md
 ### Download
 you can download it as zip or coping the UMl!
-#### Enjoy")
+
 
