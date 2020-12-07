@@ -1,5 +1,6 @@
 ## ABOUT ME .2019 
 ## Project overview
+#### What you will see? A Flexible and scalable page for all mobile and computer sizes
 
 For this project, you will create a business file Web site.
 A traditional version of the design will be provided as a PDF file, and you should repeat this design in HTML and CSS. 
@@ -24,6 +25,5 @@ You have to do this in accordance with the Guide, which is an important restrict
 - README.md
 ### Download
 you can download it as zip or coping the UMl!
-#### what you will see? A Flexible and scalable page for all mobile and computer sizes
 #### Enjoy")
 
