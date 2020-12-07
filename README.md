@@ -24,5 +24,5 @@ You have to do this in accordance with the Guide, which is an important restrict
 - README.md
 ### Download
 you can download it as zip or coping the UMl!
-##what you will see? Flexible and scalable page for all mobile and computer sizes
+## what you will see? Flexible and scalable page for all mobile and computer sizes
 
