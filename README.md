@@ -25,6 +25,6 @@ You have to do this in accordance with the Guide, which is an important restrict
 - Resume.1.html
 - README.md
 ### Download
-You can download it as zip or coping the UMl!
-! If you can't see images open them from folder, then refresh the page.
+You can download it as zip or coping the UMl.
+- ! If you can't see images open them from folder, then refresh the page.
 
